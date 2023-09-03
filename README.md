@@ -1,8 +1,11 @@
 # 💫About Me :
 
 🔭 Data Engineering enthusiast
+
 🌱 Learning Python, Java, SQL, and more
+
 💬 Ask me about Data Engineer
+
 📫 Contact me: [trangiaphu25092003@gmail.com](mailto:trangiaphu25092003@gmail.com)
 
 ## 🌐Socials
