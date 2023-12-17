@@ -1,4 +1,4 @@
-                      # 💫 Hi, I'm Gia Phú
+# 💫 Hi, I'm Gia Phú
 
 📫 Contact me: [trangiaphu25092003@gmail.com](mailto:trangiaphu25092003@gmail.com)
 
