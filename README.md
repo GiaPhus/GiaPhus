@@ -1,4 +1,4 @@
-# 💫About Me :
+# 💫 Hi, I'm Gia Phú
 
 🔭 Data Engineering enthusiast
 
