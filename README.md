@@ -1,10 +1,4 @@
-# 💫 Hi, I'm Gia Phú
-
-🔭 Data Engineering enthusiast
-
-🌱 Learning Python, Java, SQL, and more
-
-💬 Ask me about Data Engineer
+                      # 💫 Hi, I'm Gia Phú
 
 📫 Contact me: [trangiaphu25092003@gmail.com](mailto:trangiaphu25092003@gmail.com)
 
